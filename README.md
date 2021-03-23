@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project URL
+
+- <a href="https://netflix-clone-e6724.web.app">Netflix-Clone</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
