@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Project URL
 
-- <a href="https://netflix-clone-e6724.web.app">Netflix-Clone</a>
+- <a href="https://6059f5f815c3553315473cc8--silly-joliot-0ac098.netlify.app/">Netflix-Clone</a>
 
 ## Available Scripts
 
